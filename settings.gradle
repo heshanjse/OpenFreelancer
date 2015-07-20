@@ -1,0 +1,25 @@
+rootProject.name = 'server'
+
+include 'main'
+
+include 'web'
+
+
+
+
+include 'FreelancerContoller'
+
+include 'ProjectInteractComponent'
+
+include 'ProjectContoller'
+
+include 'dbcontroller'
+
+
+
+include 'basicweb'
+
+
+
+
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FreelancerContoller/FreelancerContoller.iml" filepath="$PROJECT_DIR$/FreelancerContoller/FreelancerContoller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectContoller/ProjectContoller.iml" filepath="$PROJECT_DIR$/ProjectContoller/ProjectContoller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectInteractComponent/ProjectInteractComponent.iml" filepath="$PROJECT_DIR$/ProjectInteractComponent/ProjectInteractComponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicweb/basicweb.iml" filepath="$PROJECT_DIR$/basicweb/basicweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbcontroller/dbcontroller.iml" filepath="$PROJECT_DIR$/dbcontroller/dbcontroller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server.iml" filepath="$PROJECT_DIR$/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+    </modules>
+  </component>
+</project>
